@@ -4,12 +4,17 @@ This is the offical repository of ConvoAi, it provides a platform to interact wi
 
 Website: https://convo-ai-chat.vercel.app <br>
 
+![](https://raw.githubusercontent.com/toth2000/convoAi/master/screenshots/convo-ai.png)
+
+
 ---
 
 #### Generate Backend URL
 
 To generate the backend URL that is required as input in the website, please visit the link below and follow the steps mentioned there.
 https://colab.research.google.com/drive/1K2_KumvSVtG3tNyiSOhI81h2tqn_GxDN
+
+![](https://raw.githubusercontent.com/toth2000/convoAi/master/screenshots/google_collab.png)
 
 ---
 
@@ -19,6 +24,16 @@ https://colab.research.google.com/drive/1K2_KumvSVtG3tNyiSOhI81h2tqn_GxDN
 - Ability to create multiple chat at the same time
 - Good looking UI
 - Fully responsive for various screen size
+- Response Generation Indication (Showing typing dot animation)
+
+![](https://raw.githubusercontent.com/toth2000/convoAi/master/screenshots/chat_screen_laptop.png)
+
+# Upcoming Feature
+- Server implementation to enable :
+    - User Authentication (Login And Sign Up)
+    - Storing Messages in Database to enable easy access later
+- Voice Typing (Delayed as there are not free Speech-to-text API)
+
 
 ---
 ## Folder Structure
